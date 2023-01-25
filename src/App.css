@@ -1,5 +1,14 @@
 .App {
+  display: flex;
+  flex-direction: column;
+  margin: 50mm;
+  padding: 10mm;
+  border: 15mm solid white;
+  border-radius: 20%;
   text-align: center;
+  color: white;
+  background-color: black;
+  align-items: center;
 }
 
 .App-logo {
